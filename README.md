@@ -12,7 +12,7 @@ The project requires end-to-end development of a comprehensive QA and test envir
 
 Designed and implemented Test Automation Framework to perform end-to-end testing.
 Developed test cases for testing back-end elements.
-Performed API testing using selenium
+Performed API testing using Postman.
 Created and build Jenkins jobs for all the automated testing phases.
 
 ## Tools
