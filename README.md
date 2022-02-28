@@ -6,7 +6,7 @@ Medicare is a company that supplies medicines and a couple of other healthcare e
 The project requires end-to-end development of a comprehensive QA and test environment for a healthcare website.
 
 
-![img.png](img.png)
+![medicare-screenshot-1](https://user-images.githubusercontent.com/86325276/156064322-8513f2e3-8eed-44d4-92ca-ed6ccf8398bc.png)
 
 ## Project Details
 
